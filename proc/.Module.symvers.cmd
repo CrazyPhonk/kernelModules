@@ -1,0 +1,1 @@
+cmd_/home/egor2/VSCode/kernelModules/proc/Module.symvers :=  scripts/mod/modpost -m -a     -o /home/egor2/VSCode/kernelModules/proc/Module.symvers -T /home/egor2/VSCode/kernelModules/proc/modules.order -i Module.symvers -e 

@@ -1,0 +1,1 @@
+cmd_/home/egor2/VSCode/kernelModules/hello/hello.mod := printf '%s\n'   hello.o | awk '!x[$$0]++ { print("/home/egor2/VSCode/kernelModules/hello/"$$0) }' > /home/egor2/VSCode/kernelModules/hello/hello.mod
